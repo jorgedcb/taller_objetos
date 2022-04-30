@@ -31,7 +31,7 @@ class TextoPlano:
                 for key in list(d.keys()):
                     print(key, ":", d[key])
             else: 
-                print("No hay palabras repetidas")
+                print("o hay palabras repetidas")
 
     
     def calcular_num_palabras(self,text):
