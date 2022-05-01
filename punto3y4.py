@@ -1,5 +1,5 @@
 import numpy as np
-class Numeros:
+class Datos:
     def cifrar(self): 
         try:
             num = input("Ingrese numero de 4 cifras: ")
